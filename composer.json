@@ -1,0 +1,14 @@
+{
+    "name": "kilahm/ioc-factory-container-tests",
+    "description": "Test suite for kilahm/ioc-factory-contianer",
+    "require": {
+        "hackpack/hackunit": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Isaac Leinweber",
+            "email": "brotchen@gmail.com"
+        }
+    ]
+}
