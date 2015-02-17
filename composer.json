@@ -10,5 +10,10 @@
             "name": "Isaac Leinweber",
             "email": "brotchen@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "kilahm\\IOC\\Test" : "Test/"
+        }
+    }
 }
